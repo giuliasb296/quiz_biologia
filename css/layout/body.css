@@ -3,15 +3,5 @@ body {
     justify-content: center;
     align-items: center;
     height: 97vh;
-    background: url('../../imagens/R.gif');
-    background-size: cover;
 }
 
-main {
-    width: 500px;
-    border-radius: 24px;
-    padding: 32px;
-    backdrop-filter: blur(50px);
-    background-color: rgba(255, 255, 255, 0.75);
-    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
-}
